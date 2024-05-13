@@ -1,0 +1,9 @@
+package snippet;
+
+public class Snippet {
+	public static void main(String[] args) {
+		java.naming.factory.url.pkgs=org.jboss.ejb.client.naming
+		
+	}
+}
+

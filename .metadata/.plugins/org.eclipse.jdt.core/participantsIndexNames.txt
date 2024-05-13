@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\AtelierJee\WORKSPACE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\920114922.index
+\web_app_tp04\src
+C:\AtelierJee\WORKSPACE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1588945637.index
+\ATELIER3\src
+C:\AtelierJee\WORKSPACE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3656020746.index
+\web_app_tp02\src
+C:\AtelierJee\WORKSPACE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1905370266.index
+\atelier2\src
+C:\AtelierJee\WORKSPACE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1084896253.index
+\Web_app_tp03\src

@@ -1,0 +1,10 @@
+package snippet;
+
+public class Snippet {
+    public static void main(String[] args) {
+        // Imposta la proprietà di sistema java.naming.factory.url.pkgs
+        System.setProperty("java.naming.factory.url.pkgs", "org.jboss.ejb.client.naming");
+        
+        // Ora la proprietà è impostata correttamente
+    }
+}
